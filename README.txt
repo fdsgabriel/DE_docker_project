@@ -8,4 +8,4 @@ The project is going to be splited in pieces:
 	- Fecth data from Kaggle with Selelinum;
 	- Transform this data; 
 	- Build up a container for Postgres and insert data into it;
-	- Build up DAGs and set a container for Airflow to run it daily.
+	- Build up DAGs and set a container for Airflow to run it daily
